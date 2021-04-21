@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b83df6-de21-4a18-9637-d78a44324458" name="Default Changelist" comment="" />
+    <list default="true" id="85b83df6-de21-4a18-9637-d78a44324458" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP/embedding_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/auto_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/custom_training_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/model_subclassing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TensorflowPractice exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorflowPractice exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Additional callbacks.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Batch normalisation.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Coding Tutorial.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Logs dictionary.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Metrics.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Week 2 Programming Assignment.ipynb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Imperial College London/Weight Initializers.ipynb.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +30,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z4QOAhU9Ptf9JvofxGx1qQcUJp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.time_series">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.auto_diff">
+    <configuration name="auto_diff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TensorflowPractice exam" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,12 +63,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/auto_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="embedding_layer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TensorflowPractice exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP/embedding_layer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_subclassing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TensorflowPractice exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/model_subclassing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess_sequence_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TensorflowPractice exam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Imperial College London/Part-II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Imperial College London/Part-II/preprocess_sequence_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,8 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.auto_diff" />
+        <item itemvalue="Python.model_subclassing" />
+        <item itemvalue="Python.embedding_layer" />
+        <item itemvalue="Python.preprocess_sequence_data" />
         <item itemvalue="Python.time_series" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +187,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,49 +202,30 @@
       <workItem from="1600344870848" duration="588000" />
       <workItem from="1600729461814" duration="4540000" />
       <workItem from="1600840171458" duration="444000" />
+      <workItem from="1618582808318" duration="13273000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="763" y="87" key="FileChooserDialogImpl" timestamp="1600839048562">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="763" y="87" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1600839048562" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1600852377937">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600852377937" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.982@0.23.1680.982" timestamp="1600840071687" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1600852377936">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600852377936" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.982@0.23.1680.982" timestamp="1600840071686" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1600852377936">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600852377936" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.982@0.23.1680.982" timestamp="1600840071685" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1600852377937">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600852377937" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.982@0.23.1680.982" timestamp="1600840071687" />
-    <state x="356" y="133" key="SettingsEditor" timestamp="1600839478001">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="356" y="133" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1600839478001" />
-    <state x="341" y="153" key="SettingsEditor/0.23.1680.982@0.23.1680.982" timestamp="1600344910519" />
-    <state x="421" y="120" width="837" height="810" key="find.popup" timestamp="1600766671434">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="421" y="120" width="837" height="810" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600766671434" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TensorflowPractice_exam$time_series.coverage" NAME="time_series Coverage Results" MODIFIED="1600842760390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/TensorflowPractice_exam$test.coverage" NAME="test Coverage Results" MODIFIED="1600345196633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$embedding_layer.coverage" NAME="embedding_layer Coverage Results" MODIFIED="1618672467882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$preprocess_sequence_data.coverage" NAME="preprocess_sequence_data Coverage Results" MODIFIED="1618668057365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$model_subclassing.coverage" NAME="model_subclassing Coverage Results" MODIFIED="1618824402573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
+    <SUITE FILE_PATH="coverage/TensorflowPractice_exam$time_series.coverage" NAME="time_series Coverage Results" MODIFIED="1600842760390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$auto_diff.coverage" NAME="auto_diff Coverage Results" MODIFIED="1618910406163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
   </component>
 </project>
