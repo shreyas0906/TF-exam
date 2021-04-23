@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b83df6-de21-4a18-9637-d78a44324458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP/embedding_layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/auto_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/custom_training_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-II/week-IV/model_subclassing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imperial College London/Part-III/custom_training_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TensorflowPractice exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorflowPractice exam.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Additional callbacks.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Batch normalisation.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Coding Tutorial.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Logs dictionary.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Metrics.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Week 2 Programming Assignment.ipynb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Imperial College London/Weight Initializers.ipynb.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,6 +192,9 @@
       <workItem from="1600729461814" duration="4540000" />
       <workItem from="1600840171458" duration="444000" />
       <workItem from="1618582808318" duration="13273000" />
+      <workItem from="1619109484581" duration="82000" />
+      <workItem from="1619109601710" duration="1692000" />
+      <workItem from="1619165237493" duration="597000" />
     </task>
     <servers />
   </component>
@@ -219,13 +211,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TensorflowPractice_exam$test.coverage" NAME="test Coverage Results" MODIFIED="1600345196633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TF_exam_ICL$embedding_layer.coverage" NAME="embedding_layer Coverage Results" MODIFIED="1618672467882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP" />
-    <SUITE FILE_PATH="coverage/TF_exam_ICL$preprocess_sequence_data.coverage" NAME="preprocess_sequence_data Coverage Results" MODIFIED="1618668057365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II" />
-    <SUITE FILE_PATH="coverage/TF_exam_ICL$model_subclassing.coverage" NAME="model_subclassing Coverage Results" MODIFIED="1618824402573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
     <SUITE FILE_PATH="coverage/TensorflowPractice_exam$time_series.coverage" NAME="time_series Coverage Results" MODIFIED="1600842760390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RNN" />
     <SUITE FILE_PATH="coverage/TF_exam_ICL$auto_diff.coverage" NAME="auto_diff Coverage Results" MODIFIED="1618910406163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$preprocess_sequence_data.coverage" NAME="preprocess_sequence_data Coverage Results" MODIFIED="1618668057365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$embedding_layer.coverage" NAME="embedding_layer Coverage Results" MODIFIED="1618672467882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-3-NLP" />
+    <SUITE FILE_PATH="coverage/TF_exam_ICL$model_subclassing.coverage" NAME="model_subclassing Coverage Results" MODIFIED="1618824402573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imperial College London/Part-II/week-IV" />
   </component>
 </project>
